@@ -1,4 +1,4 @@
-numad-nativex Cookbook
+numad-simplyadrian Cookbook
 ======================
 Installs numad.
 
@@ -12,8 +12,8 @@ None.
 
 Usage
 -----
-#### numad-nativex::default
-Just include `numad-nativex` in your node's `run_list`
+#### numad-simplyadrian::default
+Just include `numad-simplyadrian` in your node's `run_list`
 
 License and Authors
 -------------------

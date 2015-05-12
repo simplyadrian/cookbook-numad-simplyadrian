@@ -1,11 +1,11 @@
-numad-nativex CHANGELOG
+numad-simplyadrian CHANGELOG
 =======================
 
-This file is used to list changes made in each version of the numad-nativex cookbook.
+This file is used to list changes made in each version of the numad-simplyadrian cookbook.
 
 0.1.0
 -----
-- [your_name] - Initial release of numad-nativex
+- [Adrian Herrera] - Initial release of numad-simplyadrian
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
